@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pavankalyan0105/Firebase-git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Pavankalyan0105/Firebase-git/static/js/main.7c85edd8.chunk.js",
+    "main.js.map": "/Pavankalyan0105/Firebase-git/static/js/main.7c85edd8.chunk.js.map",
+    "runtime-main.js": "/Pavankalyan0105/Firebase-git/static/js/runtime-main.ecb6f019.js",
+    "runtime-main.js.map": "/Pavankalyan0105/Firebase-git/static/js/runtime-main.ecb6f019.js.map",
+    "static/css/2.383c0125.chunk.css": "/Pavankalyan0105/Firebase-git/static/css/2.383c0125.chunk.css",
+    "static/js/2.d77075a0.chunk.js": "/Pavankalyan0105/Firebase-git/static/js/2.d77075a0.chunk.js",
+    "static/js/2.d77075a0.chunk.js.map": "/Pavankalyan0105/Firebase-git/static/js/2.d77075a0.chunk.js.map",
+    "static/js/3.387a4fca.chunk.js": "/Pavankalyan0105/Firebase-git/static/js/3.387a4fca.chunk.js",
+    "static/js/3.387a4fca.chunk.js.map": "/Pavankalyan0105/Firebase-git/static/js/3.387a4fca.chunk.js.map",
+    "index.html": "/Pavankalyan0105/Firebase-git/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Pavankalyan0105/Firebase-git/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Pavankalyan0105/Firebase-git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d77075a0.chunk.js.LICENSE.txt": "/Pavankalyan0105/Firebase-git/static/js/2.d77075a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb6f019.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d77075a0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7c85edd8.chunk.js"
+  ]
+}
